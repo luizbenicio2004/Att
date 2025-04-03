@@ -14,7 +14,7 @@ RODAR O PROJETRO IGUAL RODEI NA MAQUINA MINHA
 node index.js
 
 NA URL:
-http://localhost:3001/meuendpoint
+http://localhost:3004/meuendpoint
 
 CÓDIGO DO INDEX.JS:
 
