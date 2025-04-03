@@ -1,0 +1,23 @@
+{
+  "name": "att",
+  "version": "1.0.0",
+  "description": "EXECUTAR O POWER SHELL NO MODO ADM\r Set-ExecutionPolicy RemoteSigned\r E CONFIRMAR DIGITANDO 's'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizbenicio2004/Att.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizbenicio2004/Att/issues"
+  },
+  "homepage": "https://github.com/luizbenicio2004/Att#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
